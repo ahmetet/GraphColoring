@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\bin\Debug\Graph Teori Falan.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\bin\Debug\Graph Teori Falan.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\bin\Debug\Graph Teori Falan.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\obj\Debug\Graph Teori Falan.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\obj\Debug\Graph_Teori_Falan.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\obj\Debug\Graph_Teori_Falan.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\obj\Debug\Graph Teori Falan.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\obj\Debug\Graph Teori Falan.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\obj\Debug\Graph Teori Falan.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\obj\Debug\Graph_Teori_Falan.GirdiAl.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\2019\undertow\Graph Teori Falan\Graph Teori Falan\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
